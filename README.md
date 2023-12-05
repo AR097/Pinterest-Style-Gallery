@@ -1,1 +1,1 @@
-# Pinterest-Style-Gallery
+# Pinterest Style Gallery
